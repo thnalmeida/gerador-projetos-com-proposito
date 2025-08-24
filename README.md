@@ -2,19 +2,36 @@
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-# Run and deploy your AI Studio app
+# Projetos de Paixões e Habilidades – AI Studio
 
-This contains everything you need to run your app locally.
+Uma aplicação que conecta paixões e habilidades a ideias de projetos significativos, utilizando inteligência artificial.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1r5xPhAo0Ju-4wD7eMht72nxm2Gd2drco
+O objetivo é mostrar como a IA pode ser usada para trazer clareza aos propósitos de vida e apoiar a construção de caminhos significativos.
 
-## Run Locally
+## Funcionalidades
 
-**Prerequisites:**  Node.js
+Digite suas paixões e habilidades e receba 5 ideias de projetos que conectam esses elementos.
+
+## Objetivo
+
+- Mostrar como a Inteligência Artificial pode ser usada para:
+- Inspirar projetos pessoais e profissionais.
+- Trazer clareza sobre propósitos de vida.
+- Tornar a tecnologia mais acessível e inclusiva
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+**Recursos de acessibilidade:**
+
+- Permite o uso do microfone e auto-falante.
+
+- O programa digita automaticamente as ideias geradas.
+
+- Também lê em voz alta as ideias, tornando a experiência inclusiva.
+
+## Acesse o projeto
+
+O projeto está disponível online no Google Cloud: https://my-google-ai-studio-applet-117934606019.us-west1.run.app/
+
+## Tecnologias utilizadas
+- **AI Studio**: para desenvolvimento da aplicação.
+- **Google Cloud**: para deploy da aplicação.
