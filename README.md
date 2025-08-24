@@ -6,8 +6,6 @@
 
 Uma aplicação que conecta paixões e habilidades a ideias de projetos significativos, utilizando inteligência artificial.
 
-O objetivo é mostrar como a IA pode ser usada para trazer clareza aos propósitos de vida e apoiar a construção de caminhos significativos.
-
 ## Funcionalidades
 
 Digite suas paixões e habilidades e receba 5 ideias de projetos que conectam esses elementos.
@@ -19,13 +17,10 @@ Digite suas paixões e habilidades e receba 5 ideias de projetos que conectam es
 - Trazer clareza sobre propósitos de vida.
 - Tornar a tecnologia mais acessível e inclusiva
 
-
 **Recursos de acessibilidade:**
 
 - Permite o uso do microfone e auto-falante.
-
 - O programa digita automaticamente as ideias geradas.
-
 - Também lê em voz alta as ideias, tornando a experiência inclusiva.
 
 ## Acesse o projeto
