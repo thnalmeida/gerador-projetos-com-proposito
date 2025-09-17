@@ -4,7 +4,7 @@
 
 # Projetos de Paixões e Habilidades – AI Studio
 
-Uma aplicação que conecta paixões e habilidades a ideias de projetos significativos, utilizando inteligência artificial.
+Uma aplicação que conecta paixões e habilidades a ideias de projetos significativos, utilizando inteligência artificial. Esse projeto foi produzido como atividade da mentora Lab.Ai do Instituto Joule.
 
 ## Funcionalidades
 
@@ -12,7 +12,6 @@ Digite suas paixões e habilidades e receba 5 ideias de projetos que conectam es
 
 ## Objetivo
 
-- Mostrar como a Inteligência Artificial pode ser usada para:
 - Inspirar projetos pessoais e profissionais.
 - Trazer clareza sobre propósitos de vida.
 - Tornar a tecnologia mais acessível e inclusiva
